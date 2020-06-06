@@ -4,8 +4,8 @@
 
 - [时间复杂度 & 空间复杂度](https://blog.csdn.net/haha223545/article/details/93619874)
 - [数组](https://github.com/Ellen2018/AndroidDataStructure/blob/master/%E6%95%B0%E7%BB%84.md)
-- [链表](https://github.com/Ellen2018/AndroidDataStructure/blob/master/%E5%8D%95%E9%93%BE%E8%A1%A8.md)
-- 堆
+- [链表](https://github.com/Ellen2018/AndroidDataStructure/blob/master/%E9%93%BE%E8%A1%A8.md)
+- [堆](https://github.com/Ellen2018/AndroidDataStructure/blob/master/%E5%A0%86.md)
 - 栈
 - 队列
 - 散列表
