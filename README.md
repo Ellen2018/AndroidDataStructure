@@ -9,8 +9,8 @@
 - [栈](https://github.com/Ellen2018/AndroidDataStructure/blob/master/%E6%A0%88.md)
 - [队列](https://github.com/Ellen2018/AndroidDataStructure/blob/master/%E9%98%9F%E5%88%97.md)
 - [散列表](https://www.cnblogs.com/changyaohua/p/4657205.html)
-- 树
-- 图
+- [树](https://www.jianshu.com/p/912357993486)
+- [图](https://www.jianshu.com/p/bce71b2bdbc8)
 - ......
 
 # 算法部分
