@@ -15,7 +15,7 @@
 
 # 算法部分
 
-- 排序
-- 查找
-- 递归 & 回溯算法
+- [排序](https://www.cnblogs.com/morethink/p/8419151.html)
+- [查找](https://www.cnblogs.com/CJT-blog/p/10475707.html)
+- [递归 & 回溯算法](https://www.cnblogs.com/fanguangdexiaoyuer/p/11224426.html)
 - ......
